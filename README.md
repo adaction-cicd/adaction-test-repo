@@ -20,4 +20,4 @@ Stuck? Just reach out via slack. We usually hangout in the tech channel `#tech`
 
 ## Project Overview
 
-Jenkins generated repo
+This is a microservice built based on the microservice template
